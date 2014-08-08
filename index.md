@@ -256,7 +256,7 @@ http://surlyanalytics.shinyapps.io/github_hot_or_not/
  - Learn how to code this app
  - Help me make it better
  - Thanks!
- 
+
 ---
 ## Shiny workshop
   - https://github.com/wsurles/shiny_workshop/tree/advanced
