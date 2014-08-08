@@ -260,7 +260,7 @@ http://surlyanalytics.shinyapps.io/github_hot_or_not/
 ---
 ## Shiny workshop
   - https://github.com/wsurles/shiny_workshop/tree/advanced
-  - Build 4 apps self paced
+  - Build 3 apps self paced
   - Progressively more powerful
   - The steps are smooth. It has been tested.
 
