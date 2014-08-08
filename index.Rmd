@@ -248,6 +248,13 @@ http://surlyanalytics.shinyapps.io/github_hot_or_not/
 ![img](assets/img/shiny_github.png)
 
 ---
+## App repo
+ - https://github.com/wsurles/github_hot_or_not
+ - Learn how to code this app
+ - Help me make it better
+ - Thanks!
+ 
+---
 ## Shiny workshop
   - https://github.com/wsurles/shiny_workshop/tree/advanced
   - Build 4 apps self paced
